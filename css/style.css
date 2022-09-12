@@ -67,3 +67,29 @@ th
     
 }
 /********/
+
+/* stile footer */
+
+.titolo
+{
+    color: white;
+    padding-left: 10%;
+    padding-top: 10%;
+    
+}
+
+.imgf1
+{
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+.imgf2
+{
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
